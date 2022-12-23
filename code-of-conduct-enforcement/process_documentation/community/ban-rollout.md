@@ -39,7 +39,7 @@ Note: systems ban always comes after notification, if there is any chance there 
 
 ## STEP 5: Case Check in (1 week later)  [Accountable Name]
 
-* Before closing this case, a quick check in with everyone involved (stakeholders, and system adminstrators). [Template Here]
+* Before closing this case, a quick check in with everyone involved (stakeholders, and system adminstratoradministratorsand s). [Template Here]
 * Report back to the group email on completion 
 
 ## Step 6:  Final Check in (hopefully no more than 2 weks later) [Accountable Name]
